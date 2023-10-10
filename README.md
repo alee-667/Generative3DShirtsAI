@@ -1,5 +1,9 @@
 ## Site link:
 # https://alee-667.github.io/Generative3DShirtsAI
+under construction rn
+
+# Live Demo
+https://youtu.be/EmcbJ8c87d8
 
 # React + Vite
 
